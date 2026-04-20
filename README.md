@@ -1,14 +1,10 @@
 # 👋 Olá, eu sou o Bryan Junqueira
 
----
-
 <div align="j">
   <img src="https://github-readme-stats.vercel.app/api?username=bryanjunqueira&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjunqueira&layout=compact&theme=tokyonight" alt="Top Langs" height="160" />
 </div>
-
 <br><br>
-
 <div align="left">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" />
   &nbsp;&nbsp;&nbsp;
@@ -24,9 +20,7 @@
   &nbsp;&nbsp;&nbsp;
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
 </div>
-
 <br><br>
-
 <div align="left">
   <a href="https://www.linkedin.com/in/bryanjunqueira/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
