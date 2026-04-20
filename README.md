@@ -15,13 +15,13 @@
 ## 🛠 Tecnologias
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5" alt="HTML" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3" alt="CSS" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" alt="Python" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
 </div>
 
 ---
@@ -29,10 +29,10 @@
 ## 📫 Contato
 
 <div style="display: flex; gap: 10px;">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/bryanjunqueira/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/SEU-INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/bryan_junqueira?igsh=eGJ5N3R6eGppdTlm" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
 </div>
