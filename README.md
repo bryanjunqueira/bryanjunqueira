@@ -41,15 +41,11 @@
 
 #
 
-<div style="text-align: center;" align="center">
+<div align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <a href="https://github.com/bryanjunqueira">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bryanjunqueira&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&line_height=25&bg_color=0d1117&title_color=1E90FF&text_color=FFF&border_radius=8&border_color=1E90FF30&icon_color=1E90FF&rank_icon=default" alt="Bryan Junqueira's GitHub Stats">
-  </a>
-  <a href="https://github.com/bryanjunqueira">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjunqueira&layout=compact&langs_count=6&hide_title=false&count_private=true&bg_color=0d1117&title_color=1E90FF&text_color=8B8B8B&border_radius=8&border_color=1E90FF30" alt="Most Used Languages">
-  </a>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bryanjunqueira&show_icons=true&count_private=true&hide_title=false&title_color=1E90FF&text_color=FFF&icon_color=1E90FF&bg_color=0d1117&border_color=1E90FF30&border_radius=8&locale=en&custom_title=Bryan+Junqueira's+GitHub+Stats" alt="Bryan Junqueira's GitHub Stats">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bryanjunqueira&layout=compact&langs_count=6&hide_title=false&count_private=true&title_color=1E90FF&text_color=8B8B8B&bg_color=0d1117&border_color=1E90FF30&border_radius=8" alt="Most Used Languages">
 </div>
 
 
