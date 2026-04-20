@@ -2,7 +2,7 @@
 
 ---
 
-<div align="center">
+<div align="j">
   <img src="https://github-readme-stats.vercel.app/api?username=bryanjunqueira&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjunqueira&layout=compact&theme=tokyonight" alt="Top Langs" height="160" />
 </div>
