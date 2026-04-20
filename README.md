@@ -1,7 +1,4 @@
-# 👋 Olá, eu sou o Bryan
-
-💻 Desenvolvedor Front-End  
-🚀 Focado em criar interfaces modernas, responsivas e performáticas  
+# 👋 Olá, eu sou o Bryan Junqueira
 
 ---
 
@@ -10,30 +7,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjunqueira&layout=compact&theme=tokyonight" alt="Top Langs" height="160" />
 </div>
 
-
-
-
+<br><br>
 
 <div align="left">
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" />
   &nbsp;&nbsp;&nbsp;
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" />
   &nbsp;&nbsp;&nbsp;
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" />
   &nbsp;&nbsp;&nbsp;
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" />
   &nbsp;&nbsp;&nbsp;
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" />
   &nbsp;&nbsp;&nbsp;
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" />
   &nbsp;&nbsp;&nbsp;
-  <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
 </div>
 
-
-
-
-
+<br><br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bryanjunqueira/" target="_blank">
