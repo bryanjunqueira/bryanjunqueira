@@ -10,9 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjunqueira&layout=compact&theme=tokyonight" alt="Top Langs" height="160" />
 </div>
 
----
-
-## 🛠 Tecnologias
 
 <div style="display: flex; gap: 10px;">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" />
@@ -24,9 +21,6 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
 </div>
 
----
-
-## 📫 Contato
 
 <div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/bryanjunqueira/" target="_blank">
